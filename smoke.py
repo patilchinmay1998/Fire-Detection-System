@@ -7,7 +7,7 @@ import datetime
 import requests
 
 url = "https://www.fast2sms.com/dev/bulk"
-payload = "sender_id=FSTSMS&message=Alert there is fire at home &language=english&route=p&numbers=9403193713"
+payload = "sender_id=FSTSMS&message=Alert there is fire at home &language=english&route=p&numbers=940***3**3"
 headers = {
 'authorization': "4vgoDlZ0xrFdzAJOpNh73MqYViIs6WBCcaeKwbPLm52kQyHjuUbj8snEGODCQPRc9mWIqy1aUexgSTit",
 'Content-Type': "application/x-www-form-urlencoded",
